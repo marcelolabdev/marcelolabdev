@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">🤖 Programming since 2015  <br>📱 I'm currently learning to program AI agents<br>💡 Goals:<br>- Automate processes efficiently using Python<br>- Create cross-platform applications  <br>- Develop efficient code that performs quickly<br>🎲 Fun fact: Coding makes me happy</p>
+<p align="left">🤖 Programming since 2015  <br>📱 I'm currently learning to program AI agents<br>💡 Goals:<br>- Generate clean, readable, and maintainable code
+<br>- Create cross-platform applications  <br>- Develop efficient code that performs quickly<br>🎲 Fun fact: Coding makes me happy</p>
 
 ###
 
