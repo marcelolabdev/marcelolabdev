@@ -11,7 +11,7 @@
 ###
 
 <p align="left">🤖 Programming since 2015  <br>📱 I'm currently learning to program AI agents<br>💡 Goals:<br>- Write Clean Code
-<br>- Create cross-platform applications  <br>- Develop efficient code that performs quickly<br>🎲 Fun fact: Coding makes me happy</p>
+<br>- Document code clearly and correctly  <br>- Develop efficient code that performs quickly<br>🎲 Fun fact: Coding makes me happy</p>
 
 ###
 
