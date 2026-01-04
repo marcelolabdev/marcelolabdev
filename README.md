@@ -11,7 +11,7 @@
 ###
 
 <p align="left">🚀 Programming since 2015  <br>📚 I'm currently learning to program AI agents<br>🏆 Achievements:<br>- Freelance programmer
-<br>- Built video games and mobile applications  <br>- Develop efficient code that performs quickly<br>🎲 Fun fact: Coding makes me happy</p>
+<br>- Built video games and mobile applications  <br>- Develop efficient code that performs quickly<br>🎲 Fun fact: Elmo will never know where I live.</p>
 
 ###
 
