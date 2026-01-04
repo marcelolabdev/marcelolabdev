@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🤖 Programming since 2015  <br>📚 I'm currently learning to program AI agents<br>🎯 Goals:<br>- Write Clean Code
+<p align="left">💡 Programming since 2015  <br>📚 I'm currently learning to program AI agents<br>🎯 Goals:<br>- Write Clean Code
 <br>- Document code clearly and correctly  <br>- Develop efficient code that performs quickly<br>🎲 Fun fact: Coding makes me happy</p>
 
 ###
