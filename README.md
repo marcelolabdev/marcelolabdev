@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🚀 Programming since 2015  <br>📚 I'm currently learning to program AI agents<br>🎯 Goals:<br>- Freelance software developer
+<p align="left">🚀 Programming since 2015  <br>📚 I'm currently learning to program AI agents<br>🏆 Achievements:<br>- Freelance programmer
 <br>- Built video games and mobile applications  <br>- Develop efficient code that performs quickly<br>🎲 Fun fact: Coding makes me happy</p>
 
 ###
