@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Marcelo and I'm a Programmer, from Chile.</p>
+<p align="left">My name is Marcelo and I'm a Programmer.</p>
 
 ###
 
