@@ -10,8 +10,8 @@
 
 ###
 
-<p align="left">🚀 Programming since 2015  <br>📚 I'm currently learning English<br>🏆 Achievements:<br>1 Freelance programmer
-<br>2 Built video games and mobile applications  <br>3 Develop efficient code that performs quickly<br>🎉 Fun fact: Elmo will never know where I live.</p>
+<p align="left">🚀 Programming since 2015  <br>📚 I'm currently learning English<br>🏆 Achievements:<br>1. Freelance programmer
+<br>2. Built video games and mobile applications  <br>3. Develop efficient code that performs quickly<br>🎉 Fun fact: Elmo will never know where I live.</p>
 
 ###
 
