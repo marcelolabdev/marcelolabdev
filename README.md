@@ -11,7 +11,7 @@
 ###
 
 <p align="left"><br>📚 I'm currently learning English<br>🏆 Achievements:<br>1. Freelance programmer
-<br>2. Built video games and mobile applications  <br>3. Develop efficient code that performs quickly<br>🎉 Fun fact: Elmo will never know where I live. <br>🎉 Fun fact:Nobody gives me a ride on a motorbike.</p>
+<br>2. Built video games and mobile applications  <br>3. Develop efficient code that performs quickly<br>🎉 Fun fact: Elmo will never know where I live. <br>🎉 Fun fact: Nobody gives me a ride on a motorbike.</p>
 
 ###
 
