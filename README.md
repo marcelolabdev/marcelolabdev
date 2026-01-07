@@ -9,7 +9,6 @@
 <h2 align="left">About me</h2>
 
 ###
-
 <p align="left"><br>📚 I'm currently learning English<br>🏆 Achievements:<br>1. Freelance programmer
 <br>2. Documented code more efficiently to improve readability, maintenance, and collaboration.  <br>3. Develop efficient code that performs quickly<br>🎉 Fun fact: Elmo doesn't know me, he'll never know where I live. <br>🎉 Fun fact: Nobody gives me a ride on a motorbike.</p>
 
